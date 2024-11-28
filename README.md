@@ -1,4 +1,7 @@
-# Advent of Code 2024
+<div align="center">
+  <h3>Advent of Code 2024</h3>
+  <img src="aoc-header.png" alt="AoC header picture"/>
+</div>
 
 ## 🎄 What is Advent of Code?
 
